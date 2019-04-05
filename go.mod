@@ -3,6 +3,7 @@ module github.com/baya/go-examples
 go 1.12
 
 require (
+	github.com/PuerkitoBio/goquery v1.5.0 // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/jmoiron/sqlx v1.2.0 // indirect
